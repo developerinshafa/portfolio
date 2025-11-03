@@ -48,11 +48,15 @@ img:hover {
     width: 1200px;
     height:30px;
 }
+.A>logo{
+     padding: 10px;
+     margin: 15px:
+}
 
 .A>a:hover {
     color: yellow;
     animation: scalanimation 0.3s ease-in-out;
-     transform: scale(1.1);
+     /* transform: scale(1.1); */
 }
 
 @keyframes scalanimation {
