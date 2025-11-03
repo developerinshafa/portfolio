@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(169, 169, 240);
+}
+.card_transition {
+  background-color: darkred;
+  width: calc(100vh - 10%);
+  margin-left: calc(100vw - 70%);
+  overflow: hidden;
+  /* border-radius: 300px; */
+}
+
+.card_transition > img {
+  position: relative;
+  margin-left: 130px;
+  border-radius: 100px;
+  margin-top: 10px;
+}
